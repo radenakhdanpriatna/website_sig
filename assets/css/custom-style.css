@@ -1,0 +1,25 @@
+#map {
+  height: 430px;
+  width: 95%;
+  margin: 20px auto;
+}
+
+.footer p {
+  padding-top: 20px;
+  padding-left: 30px;
+  display: inline-block;
+}
+
+.footer ul {
+  display: inline-block;
+}
+
+.footer li {
+  display: inline;
+  text-decoration: none;
+  padding-right: 10px;
+}
+
+.container {
+  margin-left: 1.3%;
+}
